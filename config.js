@@ -6,11 +6,11 @@ import { fileURLToPath } from 'url'
 
 global.donasi = process.env.DONASI
 global.thumbmenu = process.env.THUMB_MENU
-global.sig = process.env.LINK_IG
+global.sig = process.env.https://instagram.com/callme_rey1921
 global.sgh = process.env.LINK_GITHUB
 global.sgc = process.env.LINK_GROUP
-global.ownernumber = process.env.NOWNER
-global.owner = [
+global.ownernumber = process.env.6285232604817
+global.owner = ['6285232604817']
   ['0'],
   ['0'],
   [`${process.env.NOWNER}`, `${process.env.NAMAOWNER}`, true]
